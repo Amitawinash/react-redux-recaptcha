@@ -1,14 +1,14 @@
 export default function reducer( state = {  error : null, payload:null }, action ){
     switch( action.type ){
-        case "CAPTCHA_START":{
+        case "STORE_EMAIL_START":{
             return {...state, error:null, error:null }
             break;
         }
-        case "CAPTCHA_DONE":{
+        case "STORE_EMAIL_DONE":{
             return {...state, error:null, payload:action.payload, error:null}
             break;
         }
-        case "CAPTCHA_ERROR":{
+        case "STORE_EMAIL_ERROR":{
             return {...state, error:action.payload}
             break;
         }
