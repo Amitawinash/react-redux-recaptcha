@@ -70,7 +70,7 @@ class GoogleRecaptcha extends Component {
             email_error =  <h5 className="text-danger">Invalid email</h5>;
         }
 
-        if (this.props.recaptchaReducer.payload == null) {
+        if (this.props.recaptchaReducer.payload != null) {
             userDetail = <div>
                 <br/>
                 <h1>OR</h1>
