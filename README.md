@@ -10,7 +10,7 @@ Or you can go with any other API based server.
 
 # Installation : 
 
-**Installation video: comming soon...**
+**Installation video: coming soon...**
 
 Steps: 
 
