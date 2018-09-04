@@ -15,7 +15,7 @@ Or you can go with any other API based server.
 Steps: 
 
 1. Clone both the repositories.  Links :-
-      * FrontEnd : https://github.com/Amitawinash/nodejsApp 
+      * FrontEnd : https://github.com/Amitawinash/react-redux-recaptcha.git 
       * BackEnd : https://github.com/Amitawinash/nodejsApp
       
 2. Command:  [`git clone https://github.com/Amitawinash/react-redux-recaptcha`](https://github.com/Amitawinash/react-redux-recaptcha)  (let say in directory /home/user/MyDev/React)
